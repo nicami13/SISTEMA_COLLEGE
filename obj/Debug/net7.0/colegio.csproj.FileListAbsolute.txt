@@ -1,0 +1,14 @@
+I:\Escritorio\proyect\colegio\bin\Debug\net7.0\colegio.exe
+I:\Escritorio\proyect\colegio\bin\Debug\net7.0\colegio.deps.json
+I:\Escritorio\proyect\colegio\bin\Debug\net7.0\colegio.runtimeconfig.json
+I:\Escritorio\proyect\colegio\bin\Debug\net7.0\colegio.dll
+I:\Escritorio\proyect\colegio\bin\Debug\net7.0\colegio.pdb
+I:\Escritorio\proyect\colegio\obj\Debug\net7.0\colegio.GeneratedMSBuildEditorConfig.editorconfig
+I:\Escritorio\proyect\colegio\obj\Debug\net7.0\colegio.AssemblyInfoInputs.cache
+I:\Escritorio\proyect\colegio\obj\Debug\net7.0\colegio.AssemblyInfo.cs
+I:\Escritorio\proyect\colegio\obj\Debug\net7.0\colegio.csproj.CoreCompileInputs.cache
+I:\Escritorio\proyect\colegio\obj\Debug\net7.0\colegio.dll
+I:\Escritorio\proyect\colegio\obj\Debug\net7.0\refint\colegio.dll
+I:\Escritorio\proyect\colegio\obj\Debug\net7.0\colegio.pdb
+I:\Escritorio\proyect\colegio\obj\Debug\net7.0\colegio.genruntimeconfig.cache
+I:\Escritorio\proyect\colegio\obj\Debug\net7.0\ref\colegio.dll
