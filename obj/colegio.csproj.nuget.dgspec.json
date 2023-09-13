@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "I:\\Escritorio\\proyect\\colegio\\colegio.csproj": {}
+    "C:\\Users\\APM02-65\\Desktop\\sex\\SISTEMA_COLLEGE\\colegio.csproj": {}
   },
   "projects": {
-    "I:\\Escritorio\\proyect\\colegio\\colegio.csproj": {
+    "C:\\Users\\APM02-65\\Desktop\\sex\\SISTEMA_COLLEGE\\colegio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\Escritorio\\proyect\\colegio\\colegio.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-65\\Desktop\\sex\\SISTEMA_COLLEGE\\colegio.csproj",
         "projectName": "colegio",
-        "projectPath": "I:\\Escritorio\\proyect\\colegio\\colegio.csproj",
-        "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
-        "outputPath": "I:\\Escritorio\\proyect\\colegio\\obj\\",
+        "projectPath": "C:\\Users\\APM02-65\\Desktop\\sex\\SISTEMA_COLLEGE\\colegio.csproj",
+        "packagesPath": "C:\\Users\\APM02-65\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-65\\Desktop\\sex\\SISTEMA_COLLEGE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Camilo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-65\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

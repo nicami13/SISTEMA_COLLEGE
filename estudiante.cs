@@ -3,16 +3,16 @@ public class Estudiante
     private string code;
     private string name;
 
-    private string[] quices = new string[4];
-    private string[] trabajos = new string[2];
-    private string[] parciales = new string[3];
+    private List<string> quices = new List<string>();
+    private List<string> trabajos = new List<string>();
+    private List<string> parciales = new List<string>();
 
     public Estudiante()
     {
         // Constructor vacío
     }
 
-    public Estudiante(string code, string name, string[] quices, string[] trabajos, string[] parciales)
+    public Estudiante(string code, string name, List<string> quices, List<string> trabajos, List<string> parciales)
     {
         this.code = code;
         this.name = name;
@@ -33,19 +33,19 @@ public class Estudiante
         set { name = value; }
     }
 
-    public string[] Quices
+    public List<string> Quices
     {
         get { return quices; }
         set { quices = value; }
     }
 
-    public string[] Trabajos
+    public List<string> Trabajos
     {
         get { return trabajos; }
         set { trabajos = value; }
     }
 
-    public string[] Parciales
+    public List<string> Parciales
     {
         get { return parciales; }
         set { parciales = value; }
